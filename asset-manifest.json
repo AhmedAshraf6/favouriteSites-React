@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/favouriteSites-React/static/css/main.4879eb78.chunk.css",
+    "main.js": "/favouriteSites-React/static/js/main.e9dcc84d.chunk.js",
+    "main.js.map": "/favouriteSites-React/static/js/main.e9dcc84d.chunk.js.map",
+    "runtime-main.js": "/favouriteSites-React/static/js/runtime-main.3f6d2b1c.js",
+    "runtime-main.js.map": "/favouriteSites-React/static/js/runtime-main.3f6d2b1c.js.map",
+    "static/css/2.ef6bc2ad.chunk.css": "/favouriteSites-React/static/css/2.ef6bc2ad.chunk.css",
+    "static/js/2.16d63149.chunk.js": "/favouriteSites-React/static/js/2.16d63149.chunk.js",
+    "static/js/2.16d63149.chunk.js.map": "/favouriteSites-React/static/js/2.16d63149.chunk.js.map",
+    "index.html": "/favouriteSites-React/index.html",
+    "static/css/2.ef6bc2ad.chunk.css.map": "/favouriteSites-React/static/css/2.ef6bc2ad.chunk.css.map",
+    "static/css/main.4879eb78.chunk.css.map": "/favouriteSites-React/static/css/main.4879eb78.chunk.css.map",
+    "static/js/2.16d63149.chunk.js.LICENSE.txt": "/favouriteSites-React/static/js/2.16d63149.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/favouriteSites-React/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f6d2b1c.js",
+    "static/css/2.ef6bc2ad.chunk.css",
+    "static/js/2.16d63149.chunk.js",
+    "static/css/main.4879eb78.chunk.css",
+    "static/js/main.e9dcc84d.chunk.js"
+  ]
+}
